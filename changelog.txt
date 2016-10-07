@@ -1,0 +1,12 @@
+v1.0.5
+- Implemented toggling via fb0/blank knob.
+
+v1.0.4
+- Dirty odroid-c2 amhdmitx0/phy hack.
+
+v1.0.1
+- Fix name and version.
+
+v1.0
+- Initial version.
+
