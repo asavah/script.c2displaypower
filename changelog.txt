@@ -1,3 +1,6 @@
+v1.0.6
+- Bump, repo test.
+
 v1.0.5
 - Implemented toggling via fb0/blank knob.
 
